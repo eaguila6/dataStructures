@@ -1,8 +1,6 @@
-Ethnicity,Value
-European-American/White,13693
-African-American/Black,7776
-Hispanic/Latino,4714
-Asian/Pacific Islander,532
-Native American/Alaskan,277
-Race unspecified,1407
-NA,173
+group,Total,Proportional
+White,0.479245415,0.136488027
+Black,0.272154557,0.441338627
+Latino,0.1649867,0.193793112
+Asian,0.018619628,0.066328822
+Native,0.009694806,0.162052936
